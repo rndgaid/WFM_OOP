@@ -2,8 +2,8 @@
 
 class FileWrite
 {
-    public $handle;
-    public string $filename;
+    private $handle;
+    private string $filename;
 
     public function __construct($filename)
     {
