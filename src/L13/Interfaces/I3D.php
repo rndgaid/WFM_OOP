@@ -1,6 +1,6 @@
 <?php
 
-namespace WFM_OOP\src\_12\interfaces;
+namespace WFM_OOP\L13\Interfaces;
 
 interface I3D
 {

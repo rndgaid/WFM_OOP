@@ -1,8 +1,8 @@
 <?php
 
-namespace WFM_OOP\src\_12\classes;
+namespace WFM_OOP\L12\Classes;
 
-use WFM_OOP\src\_12\interfaces\I3D;
+use WFM_OOP\L12\Interfaces\I3D;
 
 class BookProduct extends Product implements I3D
 {

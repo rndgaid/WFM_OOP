@@ -1,6 +1,6 @@
 <?php
 
-namespace WFM_OOP\src\_12\classes;
+namespace WFM_OOP\L12\Classes;
 
 abstract class Product
 {

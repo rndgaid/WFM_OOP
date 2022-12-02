@@ -1,8 +1,8 @@
 <?php
 
-namespace WFM_OOP\src\_12\classes;
+namespace WFM_OOP\L12\Classes;
 
-use WFM_OOP\src\_12\interfaces\IGadget;
+use WFM_OOP\L12\Interfaces\IGadget;
 
 class NotebookProduct extends Product implements IGadget
 {
