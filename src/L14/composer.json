@@ -1,0 +1,12 @@
+{
+  "require": {
+    "phpmailer/phpmailer": "^6.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "WFM_OOP\\L14\\App\\": "App/",
+      "WFM_OOP\\L14\\Wfm\\Interfaces\\": "vendor/wfm/Interfaces/",
+      "WFM_OOP\\L14\\Wfm\\": "vendor/wfm/"
+    }
+  }
+}
